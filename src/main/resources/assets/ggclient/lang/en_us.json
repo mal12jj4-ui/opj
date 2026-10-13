@@ -1,0 +1,10 @@
+{
+  "key.category.ggclient.keybinds": "GG Client",
+  "key.ggclient.open_click_gui": "Open ClickGUI",
+  "screen.ggclient.click_gui": "GG Client",
+  "category.ggclient.combat": "Combat",
+  "category.ggclient.render": "Render",
+  "category.ggclient.misc": "Misc",
+  "category.ggclient.player": "Player",
+  "category.ggclient.selected": "Selected category"
+}

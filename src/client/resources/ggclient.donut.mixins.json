@@ -1,0 +1,15 @@
+{
+	"required": false,
+	"package": "dev.ggclient.client.mixin.donut",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"CameraMixin",
+		"EntityTurnMixin",
+		"FreecamInputMixin",
+		"EntityRenderDispatcherMixin",
+		"ParticleEngineMixin"
+	],
+	"injectors": {
+		"defaultRequire": 0
+	}
+}
